@@ -1,0 +1,25 @@
+---
+title: 'El efecto mitigador del sentido de justicia en la escuela sobre la intención de participación cívica: un estudio multinivel sobre estudiantes chilenos'
+subtitle: "Seminario para optar al Grado de Licenciado en Sociología"
+author: "Matías Retamales R."
+date: "28 de agosto de 2020"
+institution: "Universidad de Chile"
+degree: "Seminario de Grado - Carrera de Sociología"
+advisor: "Profesor guía: Dr. Juan Carlos Castillo"
+bibliography: [tesis.bib]
+biblio-style: apalike
+link-citations: yes
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+fontsize: 14pt
+
+---
+
+
+# Resumen {-}
+
+La actual paradoja de la baja participación dentro de los canales institucionales de representación política y el aumento de la participación por canales alternativos al margen del sistema político, plantea desafíos para la legitimidad de la democracia chilena. Uno de ellos es la desigualdad de voz política, la cual tiene como consecuencia la subrepresentación de los intereses y expectativas ciudadanas de la población más joven y de menor estatus social. Ante tal problema, la socialización política de la escuela con la formación ciudadana, emerge como una opción para promover previamente la participación cívica. No obstante, la estrecha vinculación entre el estatus social de las familias y la intención de participación cívica de los estudiantes, traslada la preocupación a la transmisión intergeneracional de la desigualdad política que perjudica a los estudiantes más desfavorecidos. Es por esto que, en el presente estudio se busca aportar con evidencia sobre la contribución del sentido de justicia en la escuela en la intención de participación cívica de los estudiantes y su efecto mitigador de la brecha generada por el estatus social familiar. Para tal propuesta se trabaja con datos secundarios obtenidos de la encuesta desarrollada por la Agencia de Calidad de la Educación (2017), la cual realiza la evaluación más reciente de la formación ciudadana en Chile. La investigación cuenta con una muestra representativa de estudiantes de 8° básico (n = 7072) anidados dentro de escuelas, por lo que se trabaja con modelos multinivel para descomponer y estimar simultáneamente efectos, tanto a un nivel individual como a un nivel escolar. 
+
+**Palabras clave**: participación cívica, sentido de justicia en la escuela, socialización política, desigualdad política, mitigar. 
+

@@ -1,0 +1,62 @@
+# Datos, medidas y método de análisis
+
+## Base de datos Agencia de la Educación (2017)
+En este estudio se ocupan datos secundarios, obtenidos de la encuesta desarrollada por la Agencia de Calidad de la Educación en el año 2017. La encuesta tiene por objetivo realizar una evaluación sobre la formación ciudadana en Chile, a una muestra representativa de estudiantes de 8° básico. La evaluación cuenta con una muestra de escuelas con un total de 10.213 estudiantes de 8° básico encuestados, incluyendo cuestionarios actitudinales tanto para los estudiantes como para sus padres. Para el caso de esta investigación, se cuenta con una muestra de 7072 estudiantes (49% son hombres y 51% son mujeres).
+
+La Base de datos Agencia de la Educación (2017), es la evaluación más actual sobre formación ciudadana en Chile, por sobre los datos nacionales del Estudio Internacional de Educación Cívica y Formación Ciudadana (ICCS) del año 2016. Ambas bases de datos cuentan con escalas e indicadores muy similares, lo que brinda respaldo de fiabilidad y validez a las mediciones, las cuales han sido probadas por el estudio ICCS en su versión del 2009 y 2016. En este sentido, la Base de datos Agencia de la Educación (2017) permite obtener resultados comparables al estudio ICCS, aunque también agrega mediciones nuevas. 
+\newpage
+
+## Medidas
+### Variables dependientes: intención de participación cívica
+Según Miranda (2018), hay una diversidad de nombres para referirse a la misma forma de participación de los estudiantes, lo que genera una confusión conceptual y dificultades para realizar comparaciones entre estudios (c.f. Isac et al., 2014; Manganelli et al., 2015; Quintelier & Hooghe, 2013; Treviño et al., 2019). Por tal motivo, Miranda et al. (2017) ponen a prueba empírica un modelo conceptual de participación ciudadana juvenil, mediante un análisis factorial confirmatorio multigrupo y equivalencia de medición para estudiantes de octavo grado en 38 países (n = 139.875) que participaron en el estudio ICCS del año 2009. Entre sus resultados, obtienen una dimensión de participación cívica intencional e informada, la cual incluye la participación formal y activista de los estudiantes. En ambas formas de participación cívica, encontraron que los indicadores propuestos miden los constructos de manera aceptable. 
+
+En este estudio se trabaja con los ítems ya validados para medir los constructos latentes de participación formal y activista de acuerdo a Miranda et al. (2017), en particular los que refieren a la intención de participación de los estudiantes. Para la muestra con la que se trabaja, la escala que mide la intención de participación formal mostró una excelente fiabilidad ($\alpha$ = .92), mientras que la escala sobre la intención de participación activista mostró una consistencia interna apenas aceptable ($\alpha$ = .65). Los ítems de cada escala y las categorías de respuesta se resumen en la Tabla 1. 
+
+Tabla 1
+
+*Indicadores para medir la intención de participación cívica*
+
+**Participación Formal** |  **Participación activista** | **Categorías de respuesta** |
+-------------------------| -----------------------------| ----------------------------|
+Votar en elecciones municipales (alcalde y concejales) | Participar escribiendo artículos para un diario o sitio web escolar | Seguro que no haría eso
+Votar en elecciones presidenciales | Contactando a un alcalde, senador o diputado | Probablemente no haría eso
+Informarte sobre los candidatos antes de votar en una elección | Participando en una marcha o manifestaciones pacífica | Probablemente haría eso
+ | | | Seguro que haría eso
+ 
+*Fuente: Elaboración propia en base a las preguntas de la Agencia de la Educación (2017).*
+
+### Variables independientes: sentido de justicia en la escuela
+
+**Justicia distributiva**
+
+La justicia distributiva como dimensión del sentido de justicia en la escuela, es medida en diversas ocasiones de forma cuantitativa (e.g., Chory-Assad, 2002; Chory-Assad & Paulsen, 2004; Jasso & Resh, 2002; Pretsch & Ehrhardt-Madapathi, 2018; Resh, 2010, 2018; Resh & Dalbert, 2007; Resh & Sabbagh, 2013, 2014, 2017) y se enfatiza en el principio meritocrático que debe regir la distribución de las notas (Resh & Sabbagh, 2009, 2013; Sabbagh et al., 2006). En este estudio el sentido de justicia sobre la distribución meritocrática de las notas, se mide a nivel individual con una escala de 2 indicadores reportados por los estudiantes (“La inteligencia es importante para obtener buenas notas” y “El esfuerzo es importante para obtener buenas notas”) y a nivel escolar se crea una variable ficticia con el promedio de la escala por escuela. Cada indicador tiene 4 puntos medidos en una escala Likert, donde 1 es “Muy en desacuerdo” y 4 es “Muy de acuerdo”. La correlación entre los 2 indicadores en la muestra es r = .19.
+
+**Justicia relacional**
+
+La justicia relacional como dimensión del sentido de justicia en la escuela, la cual hace alusión al trato justo de los profesores en las relaciones que establecen con sus estudiantes en la escuela, es una medición probada por múltiples investigaciones (e.g., Isac et al., 2014; Quintelier & Hooghe, 2013; Treviño et al., 2019). En esta investigación el sentido de justicia sobre las relaciones interpersonales entre profesores y estudiantes, se miden a nivel individual con una escala de 5 indicadores reportados por los estudiantes (“La mayoría de mis profesores me tratan de manera justa”, “Los estudiantes se llevan bien con la mayoría de los profesores”, “A la mayoría de los profesores les interesa el bienestar de los estudiantes”, “La mayoría de mis profesores realmente escuchan lo que tengo que decir” y “Si necesito ayuda extra, mis profesores me la darán”) y a nivel escolar se crea una variable ficticia con el promedio de la escala por escuela. Los indicadores tienen 4 puntos y están medidos en una escala Likert, siendo 1 “Muy en desacuerdo” y 4 “Muy de acuerdo”. La medición de la justicia relacional mostró una buena fiabilidad en la muestra ($\alpha$ = .83). 
+
+### Variables control
+
+**Género**
+
+El género del estudiante es una variable dicotómica a nivel individual, que puede tomar como valor 0 si es hombre y 1 si es mujer. 
+\newpage
+
+**Interés por temas políticos y sociales**
+
+El interés de los estudiantes por temas políticos y sociales, es un variable ordinal a nivel individual medida como escala Likert de 4 puntos, siendo 1 “Nada” y 4 “Mucho”.
+
+**Estatus social**
+
+Ante las dificultades de preguntarle a un adolescente de 8° básico el nivel de ingresos de su familia, múltiples estudios señalan que la cantidad de libros en el hogar y el logro educativo son variables proxy del estatus social familiar de los estudiantes (e.g., Campbell, 2008; Castillo et al., 2014; Castillo et al., 2015a; Kudrnáč, 2017; Miranda, 2018; Quintelier, 2010; Quintelier & Hooghe, 2013; Resh, 2018; Resh & Sabbagh, 2014; Treviño et al., 2019). En primer lugar, la cantidad de libros es una variable reportada por el estudiante con un nivel de medición ordinal de 5 puntos, siendo 1 “Pocos o muy pocos (0 a 10 libros)” y 5 “Suficientes para llenar tres o más libros (más de 200 libros)”. En segundo lugar, el logro educativo es medido como la expectativa de educación del estudiante, cuyo nivel de medición de la variable es ordinal con 4 puntos, donde 1 es “8° básico” y 4 es “Universidad”. Para controlar a nivel escolar, se crean variables ficticias con el promedio de las medidas por escuela.
+
+## Método para el análisis de datos
+La estructura jerárquica de las hipótesis y los datos a utilizar (i.e., estudiantes anidados dentro de escuelas), vuelven pertinente el análisis de datos con modelos lineales jerárquicos o modelos multinivel (Hox, 2010). Este es un método apropiado para datos de dos o más niveles de medición anidados, permitiendo la descomposición y estimación simultánea de efectos a nivel individual y niveles agregados (ibíd.). La estrategia metodológica, por lo tanto, permite estimar la varianza de las variables dependientes a través de los niveles de agregación, así como la proporción de varianza explicada en cada nivel. El software utilizado para este análisis multinivel es R, a través del paquete ‘lme4’ desarrollado por Douglas Bates, al proporcionar una sintaxis más concisa y más flexible respecto a anteriores librerías (Finch, Bolin & Kelley, 2014).
+
+Los análisis de la intención de participación cívica basados en modelos multinivel, siguen la siguiente fórmula: 
+
+$\text{y}_{ij}=\gamma{00}+\gamma{10}\text{X}_j+\gamma_{01}\text{Z}j+\mu_{oj}+\text{r}_{ij}$ 
+
+Donde $\text{y}_{ij}$ es el valor de la variable dependiente, es decir, los niveles de intención de participación cívica de los estudiantes (un modelo con la intención de participación formal y otro con la intención de participación activista); $\gamma{00}$ es el gran intercepto o promedio general estimado a partir de los resultados de todos los estudiantes;  $\gamma{10}\text{X}_j$ es el valor de la pendiente asociado a un efecto fijo de variable individual (el género, interés por temas políticos y sociales, variables de estatus social y las dimensiones del sentido de justicia a nivel individual); $\gamma_{01}\text{Z}j$ es el valor de la pendiente asociado a un efecto fijo de variable contextual (variables ficticias tanto del estatus social como las dimensiones del sentido de justicia a nivel escolar); $\mu_{oj}$ es el efecto aleatorio para el intercepto según anidación, en este caso, según escuelas; y $\text{r}_{ij}$ son los residuos a nivel individual.
+
+Los modelos multinivel han sido utilizados por diversos estudios que analizan el efecto de la socialización política de la escuela sobre la intención de participación cívica (Campbell, 2008; Castillo et al., 2015a; Deimel et al., 2020; Eckstein & Noack, 2016; Isac et al., 2014; Kudrnáč, 2017; Manganelli et al., 2015; Quintelier, 2010; Quintelier & Hooghe, 2013; Treviño et al., 2019), incluyendo investigaciones que prueban el efecto del sentido de justicia en la escuela y la socialización cívica de los estudiantes (Resh & Sabbagh, 2013, 2014, 2017). Así mismo, investigaciones que estudian como mitigar el vínculo entre el estatus social familiar y la intención de participación cívica de los estudiantes, también han utilizado modelos multinivel (Castillo et al., 2015a; Deimel et al., 2020; Campbell, 2008; Eckstein y Noack, 2016; Kudrnáč, 2017).
